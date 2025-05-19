@@ -1,2 +1,1 @@
-# Quiz-game
-# Quiz-game
+# Rock-Paper-Scissors
